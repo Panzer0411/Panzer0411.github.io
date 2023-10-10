@@ -1,0 +1,29 @@
+body {
+  background: rgb(91, 83, 83);
+}
+
+.container {
+  width: 60%;
+  border: 1px solid #000000;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0, 1);
+  margin: 20px auto;
+  padding: 20px;
+  background: url("LB\ KERTAS.jpeg");
+}
+
+form {
+  display: block;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 150px;
+}
+
+input {
+  background-color: rgb(255, 227, 227);
+  color: rgb(0, 0, 0);
+}
+
+#texter {
+  color: rgb(50, 44, 44);
+  margin-left: 81px;
+}
